@@ -1,5 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi ✌️</h3>
 
+<h3 align="center">A Front-end Developer</h3>
+
+
+- 🌱 I’m currently learning: Front-End
+- 📫 How to reach me: Linkedin - (https://www.linkedin.com/in/mariah-guedes/)
+- 💬 Ask me about HTML, CSS, CATS & BTS
+- ⚡ Fun fact: 🍕 Pizza lover 🍕
+
+  ![Snake animation](https: /github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!--
 **mariahgll/mariahgll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
