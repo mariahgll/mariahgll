@@ -8,7 +8,7 @@
 - 💬 Ask me about HTML, CSS, CATS & BTS
 - ⚡ Fun fact: 🍕 Pizza lover 🍕
 
-  ![Snake animation](https: /github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 <!--
 **mariahgll/mariahgll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
