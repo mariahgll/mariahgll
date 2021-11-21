@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: Front-End
 - 📫 How to reach me: Linkedin - (https://www.linkedin.com/in/mariah-guedes/)
-- 💬 Ask me about HTML, CSS, CATS & BTS
+- 💬 Ask me about: HTML, CSS, CATS & BTS
 - ⚡ Fun fact: 🍕 Pizza lover 🍕
 
  
