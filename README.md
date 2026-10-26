@@ -1,9 +1,9 @@
 <h1 align="center">Hi ✌️</h3>
 
-<h3 align="center">A Front-end Developer</h3>
+<h3 align="center">A Student</h3>
 
 
-- 🌱 I’m currently learning: Front-End
+- 🌱 I’m currently learning: Programação
 - 📫 How to reach me: Linkedin - (https://www.linkedin.com/in/mariah-guedes/)
 - 💬 Ask me about: HTML, CSS, CATS & ANIME
 - ⚡ Fun fact: 🍕 Pizza lover 🍕
